@@ -13,10 +13,13 @@
 .footer{text-align: center;}
 .fa-facebook{margin-right: 100px}
 .body{background: #eff5ff}
-.title{font-family: serif; position: sticky; }
-.img-one{ opacity: 0.5; height:500px; width:490px; }
-.img-two{ opacity: 0.5;height:500px; width:490px; }
-.img-three{ opacity: 0.5;height:500px; width:490px; }
-.img-four{ opacity: 0.5;height:500px; width:490px; }
-.img-five{ opacity: 0.5;height:500px; width:490px; }
-.img-moonphase{ opacity: 0.5;height:500px; width:490px; }
+.jumbotron-custom {
+	background-image: url("../img/ss.png");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 80vh;
+}
+.footer{position: relative}
+.title{font-family: 'Pacifico', cursive;} 
+.text-area{height:100px ;width: 300px;}
